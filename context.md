@@ -17,3 +17,5 @@ Page has:
 - `GET https://api.chucknorris.io/jokes/random` if no category
 - `GET  https://api.chucknorris.io/jokes/random?category={category}` if category set
 - Dropdown values (categories) fetched dynamically from API
+
+See schema in `src/types.ts`
